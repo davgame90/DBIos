@@ -1,0 +1,54 @@
+{
+            "lieux":[{
+                "name": "Shelby's bar",
+                "personnes": [
+                    {
+                        "name": "John",
+                        "surname": "Doe",
+                        "pfp": "https://example.com/john-doe.png",
+                        "entreprise": "ABC Inc.",
+                        "role": "Développeur"
+                    },
+                    {
+                        "name": "Jane",
+                        "surname": "Smith",
+                        "pfp": "https://example.com/jane-smith.png",
+                        "entreprise": "XYZ Corp.",
+                        "role": "Designer"
+                    }
+                ],
+            "latitude": 47.637813568115234,
+            "longitude": 6.864379405975342,
+            "type": "bar"
+        },
+        {
+            "name": "Le dragon d'or Belfort",
+            "personnes": [
+                {
+                    "name": "Bob",
+                    "surname": "Johnson",
+                    "pfp": "https://example.com/bob-johnson.png",
+                    "entreprise": "123 Industries",
+                    "role": "Manager"
+                },
+                {
+                    "name": "Alice",
+                    "surname": "Williams",
+                    "pfp": "https://example.com/alice-williams.png",
+                    "entreprise": "456 Co.",
+                    "role": "Consultant"
+                }
+            ],
+            "latitude": 47.6377614,
+            "longitude": 6.8644188,
+            "type": "restaurant"
+        },
+        {
+            "name": "Le rond de serviette",
+            "personnes": [],
+            "latitude": 47.63853454589844,
+            "longitude": 6.865279674530029,
+            "type": "restaurant"
+        }
+    ]
+}
