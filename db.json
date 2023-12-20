@@ -1,5 +1,6 @@
 {
             "lieux":[{
+                "id": "1",
                 "name": "Shelby's bar",
                 "personnes": [
                     {
@@ -22,6 +23,7 @@
             "type": "bar"
         },
         {
+            "id": "2",
             "name": "Le dragon d'or Belfort",
             "personnes": [
                 {
@@ -44,6 +46,7 @@
             "type": "restaurant"
         },
         {
+            "id": "3",
             "name": "Le rond de serviette",
             "personnes": [],
             "latitude": 47.63853454589844,
