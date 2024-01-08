@@ -6,14 +6,14 @@
                     {
                         "name": "John",
                         "surname": "Doe",
-                        "pfp": "https://example.com/john-doe.png",
+                        "pfp": "https://images.generated.photos/w1mBXU5QClvtQBccJHUayK2W1KgpLRFVUgMJMQCNlfY/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDE1MzE2LmpwZw.jpg",
                         "entreprise": "ABC Inc.",
                         "role": "Développeur"
                     },
                     {
                         "name": "Jane",
                         "surname": "Smith",
-                        "pfp": "https://example.com/jane-smith.png",
+                        "pfp": "https://images.generated.photos/DKij2w0nRm5fdOLen8BEUJ07yRelCyW1usaRq3BBg54/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDI1MDg1LmpwZw.jpg",
                         "entreprise": "XYZ Corp.",
                         "role": "Designer"
                     }
@@ -30,17 +30,31 @@
                 {
                     "name": "Bob",
                     "surname": "Johnson",
-                    "pfp": "https://example.com/bob-johnson.png",
+                    "pfp": "https://images.generated.photos/prip4xOsJjmLRJk32wBTAUsyZvr9CwhHS-adc7NhQvM/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/OTI0NjA5LmpwZw.jpg",
                     "entreprise": "123 Industries",
                     "role": "Manager"
                 },
                 {
                     "name": "Alice",
                     "surname": "Williams",
-                    "pfp": "https://example.com/alice-williams.png",
+                    "pfp": "https://images.generated.photos/E-sBssEJ6h8LM3dQFFMXAMSDTH36_4BEjKSFpL8zKZQ/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDQzNjgzLmpwZw.jpg",
                     "entreprise": "456 Co.",
                     "role": "Consultant"
-                }
+                },
+                {
+                    "name": "Dave",
+                    "surname": "McGregor",
+                    "pfp": "https://images.generated.photos/5t-8A-Bj1D0G7TOyOL6MpNV3v7hiwivP67IPy7DhVrc/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDM3OTExLmpwZw.jpg",
+                    "entreprise": "456 Co.",
+                    "role": "Manager"
+                },
+                {
+                    "name": "Joshua",
+                    "surname": "Mishki",
+                    "pfp": "https://images.generated.photos/yG_PQp20etrPZ2MHfyRzDinrEO7BzrKnCBTcqJvGeVo/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDQ4Mzk4LmpwZw.jpg",
+                    "entreprise": "456 Co.",
+                    "role": "Consultant"
+                },
             ],
             "latitude": 47.6377614,
             "longitude": 6.8644188,
@@ -81,7 +95,7 @@
                {
                     "name": "Steve",
                     "surname": "Brut",
-                    "pfp": "https://example.com/steve-brut.png",
+                    "pfp": "https://images.generated.photos/IQQUrYSstFNXVVQuFGZT_jwVdOBpK6Rde5cIsHYY4OQ/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDk4OTY4LmpwZw.jpg",
                     "entreprise": "Motel2",
                     "role": "CEO"
                 }
