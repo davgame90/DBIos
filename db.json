@@ -18,8 +18,8 @@
                         "role": "Designer"
                     }
                 ],
-            "latitude": 47.637813568115234,
-            "longitude": 6.864379405975342,
+            "latitude": 47.647813568115234,
+            "longitude": 6.865379405975342,
             "type": "bar"
         },
         {
@@ -67,7 +67,7 @@
             "personnes": [],
             "latitude": 47.63829112502697,
             "longitude": 6.860003864792724,
-            "type": "restaurant"
+            "type": "bar"
         },
         {
             "id": "6",
