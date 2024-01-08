@@ -18,8 +18,8 @@
                         "role": "Designer"
                     }
                 ],
-            "latitude": 47.637813568115234,
-            "longitude": 6.864379405975342,
+            "latitude": 47.647813568115234,
+            "longitude": 6.864179405975342,
             "type": "bar"
         },
         {
@@ -60,6 +60,32 @@
             "latitude": 47.63911725212388,
             "longitude": 6.862811756539736,
             "type": "restaurant"
-        }           
+        },
+        {
+            "id": "5",
+            "name": "Bistrot des moines",
+            "personnes": [],
+            "latitude": 47.63829112502697,
+            "longitude": 6.860003864792724,
+            "adresse": "6 Rue des Potiers, Belfort",
+            "type": "bar"
+        },
+        {
+            "id": "6",
+            "name": "Chamas Tacos",
+            "personnes": [
+               {
+                    "name": "Steve",
+                    "surname": "Brut",
+                    "pfp": "https://example.com/steve-brut.png",
+                    "entreprise": "Motel2",
+                    "role": "CEO"
+                }
+            ],
+            "latitude": 47.63401358424472,
+            "longitude": 6.857163588979423,
+            "adresse": "1 Rue de la Savoureuse, Belfort",
+            "type": "restaurant"
+        }
     ]
 }
