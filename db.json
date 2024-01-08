@@ -60,6 +60,14 @@
             "latitude": 47.63911725212388,
             "longitude": 6.862811756539736,
             "type": "restaurant"
-        }           
+        },
+        {
+            "id": "5",
+            "name": "Bistrot des moines",
+            "personnes": [],
+            "latitude": 47.63829112502697,
+            "longitude": 6.860003864792724,
+            "type": "restaurant"
+        }
     ]
 }
