@@ -20,7 +20,6 @@
                 ],
             "latitude": 47.647813568115234,
             "longitude": 6.865379405975342,
-            "adresse": "5 Rue du marais 90000, Belfort",
             "type": "bar"
         },
         {
@@ -44,7 +43,6 @@
             ],
             "latitude": 47.6377614,
             "longitude": 6.8644188,
-            "adresse": "12 Rue du marais 90000, Belfort",
             "type": "restaurant"
         },
         {
@@ -53,7 +51,6 @@
             "personnes": [],
             "latitude": 47.63853454589844,
             "longitude": 6.865279674530029,
-            "adresse": "18 Rue du marais 90000, Belfort",
             "type": "restaurant"
         },
         {
@@ -62,7 +59,6 @@
             "personnes": [],
             "latitude": 47.63911725212388,
             "longitude": 6.862811756539736,
-            "adresse": "3 Rue des Potiers 90000, Belfort",
             "type": "restaurant"
         },
         {
@@ -71,7 +67,6 @@
             "personnes": [],
             "latitude": 47.63829112502697,
             "longitude": 6.860003864792724,
-            "adresse": "6 Rue des Potiers, Belfort",
             "type": "bar"
         },
         {
@@ -88,7 +83,6 @@
             ],
             "latitude": 47.63401358424472,
             "longitude": 6.857163588979423,
-            "adresse": "1 Rue de la Savoureuse, Belfort",
             "type": "restaurant"
         }
         
