@@ -20,6 +20,7 @@
                 ],
             "latitude": 47.647813568115234,
             "longitude": 6.864179405975342,
+            "adresse": "8 Avenue de Gaulle, Belfort",
             "type": "bar"
         },
         {
@@ -43,6 +44,7 @@
             ],
             "latitude": 47.6377614,
             "longitude": 6.8644188,
+            "adresse": "8 Avenue du Maréchal Juin, Belfort",
             "type": "restaurant"
         },
         {
@@ -51,6 +53,7 @@
             "personnes": [],
             "latitude": 47.63853454589844,
             "longitude": 6.865279674530029,
+            "adresse": "2 Rue du Boucher, Belfort",
             "type": "restaurant"
         },
         {
@@ -59,6 +62,7 @@
             "personnes": [],
             "latitude": 47.63911725212388,
             "longitude": 6.862811756539736,
+            "adresse": "5 Rue de la Savoureuse, Belfort",
             "type": "restaurant"
         },
         {
