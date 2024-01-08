@@ -7,7 +7,7 @@
                         "name": "John",
                         "surname": "Doe",
                         "pfp": "https://example.com/john-doe.png",
-                        "entreprise": "ABC Inc."
+                        "entreprise": "ABC Inc.",
                         "role": "Développeur"
                     },
                     {
