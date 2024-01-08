@@ -68,6 +68,23 @@
             "latitude": 47.63829112502697,
             "longitude": 6.860003864792724,
             "type": "restaurant"
+        },
+        {
+            "id": "6",
+            "name": "Chamas Tacos",
+            "personnes": [
+               {
+                    "name": "Steve",
+                    "surname": "Brut",
+                    "pfp": "https://example.com/steve-brut.png",
+                    "entreprise": "Motel2",
+                    "role": "CEO"
+                }
+            ],
+            "latitude": 47.63401358424472,
+            "longitude": 6.857163588979423,
+            "type": "restaurant"
         }
+        
     ]
 }
