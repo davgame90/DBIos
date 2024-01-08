@@ -52,6 +52,14 @@
             "latitude": 47.63853454589844,
             "longitude": 6.865279674530029,
             "type": "restaurant"
-        }
+        },
+        {
+            "id": "4",
+            "name": "Chez Xav et Domi",
+            "personnes": [],
+            "latitude": 47.63911725212388,
+            "longitude": 6.862811756539736,
+            "type": "restaurant"
+        }           
     ]
 }
