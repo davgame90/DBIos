@@ -16,6 +16,20 @@
                         "pfp": "https://images.generated.photos/DKij2w0nRm5fdOLen8BEUJ07yRelCyW1usaRq3BBg54/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDI1MDg1LmpwZw.jpg",
                         "entreprise": "XYZ Corp.",
                         "role": "Designer"
+                    },
+                    {
+                        "name": "Dave",
+                        "surname": "McGregor",
+                        "pfp": "https://images.generated.photos/5t-8A-Bj1D0G7TOyOL6MpNV3v7hiwivP67IPy7DhVrc/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDM3OTExLmpwZw.jpg",
+                        "entreprise": "456 Co.",
+                        "role": "Ingénieur"
+                    },
+                    {
+                         "name": "Joshua",
+                         "surname": "Mishki",
+                         "pfp": "https://images.generated.photos/yG_PQp20etrPZ2MHfyRzDinrEO7BzrKnCBTcqJvGeVo/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDQ4Mzk4LmpwZw.jpg",
+                         "entreprise": "456 Co.",
+                         "role": "DRH"
                     }
                 ],
             "latitude": 47.647813568115234,
