@@ -46,15 +46,15 @@
                     "surname": "McGregor",
                     "pfp": "https://images.generated.photos/5t-8A-Bj1D0G7TOyOL6MpNV3v7hiwivP67IPy7DhVrc/rs:fit:512:512/wm:0.95:sowe:18:18:0.33/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDM3OTExLmpwZw.jpg",
                     "entreprise": "456 Co.",
-                    "role": "Manager"
+                    "role": "Ingénieur"
                 },
                 {
                     "name": "Joshua",
                     "surname": "Mishki",
                     "pfp": "https://images.generated.photos/yG_PQp20etrPZ2MHfyRzDinrEO7BzrKnCBTcqJvGeVo/rs:fit:256:256/czM6Ly9pY29uczgu/Z3Bob3Rvcy1wcm9k/LnBob3Rvcy92M18w/MDQ4Mzk4LmpwZw.jpg",
                     "entreprise": "456 Co.",
-                    "role": "Consultant"
-                },
+                    "role": "DRH"
+                }
             ],
             "latitude": 47.6377614,
             "longitude": 6.8644188,
